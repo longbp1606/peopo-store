@@ -1,0 +1,6 @@
+[submodule "peopo-store-fe"]
+	path = peopo-store-fe
+	url = https://github.com/longbp1606/peopo-store-fe.git
+[submodule "peopo-store-be"]
+	path = peopo-store-be
+	url = https://github.com/longbp1606/peopo-store-be.git
